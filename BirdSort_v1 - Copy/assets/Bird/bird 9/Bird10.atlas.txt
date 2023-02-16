@@ -1,0 +1,27 @@
+
+Bird10.png
+size: 490,538
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Bird10
+  rotate: false
+  xy: 2, 106
+  size: 486, 430
+  orig: 486, 430
+  offset: 0, 0
+  index: -1
+Bird10_Wing01
+  rotate: false
+  xy: 2, 2
+  size: 219, 102
+  orig: 221, 104
+  offset: 1, 1
+  index: -1
+Bird10_Wing02
+  rotate: false
+  xy: 223, 2
+  size: 219, 102
+  orig: 221, 104
+  offset: 1, 1
+  index: -1

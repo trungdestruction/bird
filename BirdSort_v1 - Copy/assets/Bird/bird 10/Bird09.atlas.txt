@@ -1,0 +1,27 @@
+
+Bird09.png
+size: 681,310
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Bird09
+  rotate: true
+  xy: 2, 2
+  size: 306, 504
+  orig: 306, 504
+  offset: 0, 0
+  index: -1
+Bird09_Wing01
+  rotate: false
+  xy: 508, 137
+  size: 125, 171
+  orig: 127, 173
+  offset: 1, 1
+  index: -1
+Bird09_Wing02
+  rotate: true
+  xy: 508, 10
+  size: 125, 171
+  orig: 127, 173
+  offset: 1, 1
+  index: -1

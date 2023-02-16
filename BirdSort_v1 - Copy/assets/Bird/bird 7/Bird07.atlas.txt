@@ -1,0 +1,27 @@
+
+Bird07.png
+size: 633,286
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Bird07
+  rotate: true
+  xy: 2, 2
+  size: 282, 503
+  orig: 282, 503
+  offset: 0, 0
+  index: -1
+Bird07_Wing01
+  rotate: false
+  xy: 507, 147
+  size: 124, 137
+  orig: 126, 139
+  offset: 1, 1
+  index: -1
+Bird07_Wing02
+  rotate: false
+  xy: 507, 8
+  size: 124, 137
+  orig: 126, 139
+  offset: 1, 1
+  index: -1
